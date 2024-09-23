@@ -1,4 +1,4 @@
-# MvL Moddigis Character Mod
+# NSMB-ModdiMod
 A unity-standalone 2-10 player remake of the Mario vs. Luigi gamemode from the New Super Mario Bros DS download game. 
 
 Includes the 5 default levels (Grassland, Bricks, Castle, Pipes, and Ice), along with a handful of custom levels to battle on! 
